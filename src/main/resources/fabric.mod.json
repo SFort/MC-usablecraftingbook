@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "usablecraftingbook",
+  "version": "${version}",
+
+  "name": "Usable Crafting Book",
+  "description": "craft go brrr",
+  "authors": [
+    "SFort"
+  ],
+  "contact": {
+    "sources": "https://github.com/SFort/MC-usablecraftingbook"
+  },
+
+  "license": "MIT",
+
+  "environment": "*",
+  "mixins": [
+    "usablecraftingbook.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "*"
+  }
+}

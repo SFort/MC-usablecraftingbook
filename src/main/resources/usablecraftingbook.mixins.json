@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "sf.ssf.sfort.usablecraftingbook.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "client": [
+    "Crafting",
+    "Inventory"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
